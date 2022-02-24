@@ -1,32 +1,9 @@
-# Prerequisites
-*.d
+.idea/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+anti/
+browser/
+block/
+packages/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+DataCatGen-Console/bin/
+DataCatGen-Console/obj/
